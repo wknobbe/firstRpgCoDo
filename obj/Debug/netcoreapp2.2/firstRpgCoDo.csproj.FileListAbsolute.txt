@@ -1,0 +1,11 @@
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\bin\Debug\netcoreapp2.2\firstRpgCoDo.deps.json
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\bin\Debug\netcoreapp2.2\firstRpgCoDo.runtimeconfig.json
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\bin\Debug\netcoreapp2.2\firstRpgCoDo.runtimeconfig.dev.json
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\bin\Debug\netcoreapp2.2\firstRpgCoDo.dll
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\bin\Debug\netcoreapp2.2\firstRpgCoDo.pdb
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\obj\Debug\netcoreapp2.2\firstRpgCoDo.csprojAssemblyReference.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\obj\Debug\netcoreapp2.2\firstRpgCoDo.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\obj\Debug\netcoreapp2.2\firstRpgCoDo.AssemblyInfoInputs.cache
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\obj\Debug\netcoreapp2.2\firstRpgCoDo.AssemblyInfo.cs
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\obj\Debug\netcoreapp2.2\firstRpgCoDo.dll
+C:\Users\Bill\Documents\CodingFiles\CodingDojo\csharp\oop\firstRpgCoDo\obj\Debug\netcoreapp2.2\firstRpgCoDo.pdb
